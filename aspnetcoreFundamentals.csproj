@@ -32,4 +32,7 @@
     <Compile Remove="OdeToFood.Core\Class1.cs" />
     <Compile Remove="OdeToFood.Data\Class1.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\lib\font-awesome\css\brands.min.css" />
+  </ItemGroup>
 </Project>

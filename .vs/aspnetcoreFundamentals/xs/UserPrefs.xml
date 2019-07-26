@@ -1,32 +1,26 @@
 ﻿<Properties StartupConfiguration="{FA633A9A-E78B-47B6-B866-4713B0DF1E85}|Default">
   <MonoDevelop.Ide.ItemProperties.aspnetcoreFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Restaurants/List.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Restaurants/NotFound.cshtml">
     <Files>
-      <File FileName="Pages/Restaurants/List.cshtml.cs" Line="25" Column="1" />
-      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="20" Column="50" />
-      <File FileName="Pages/Restaurants/List.cshtml" Line="16" Column="50" />
+      <File FileName="Pages/Restaurants/Details.cshtml" Line="1" Column="11" />
+      <File FileName="Pages/Restaurants/Details.cshtml.cs" Line="26" Column="53" />
+      <File FileName="Pages/Restaurants/List.cshtml" Line="32" Column="35" />
+      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="7" Column="36" />
+      <File FileName="Pages/Restaurants/NotFound.cshtml" Line="3" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="aspnetcoreFundamentals" expanded="True">
             <Node name="aspnetcoreFundamentals" expanded="True">
-              <Node name="OdeToFood.Core" expanded="True" />
               <Node name="OdeToFood.Data" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Restaurants" expanded="True">
-                  <Node name="List.cshtml" selected="True" />
+                  <Node name="NotFound.cshtml" selected="True" />
                 </Node>
-                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="lib" expanded="True">
-                  <Node name="font-awesome" expanded="True">
-                    <Node name="webfonts" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
             <Node name="OdeToFood.Core" expanded="True" />
             <Node name="OdeToFood.Data" expanded="True" />

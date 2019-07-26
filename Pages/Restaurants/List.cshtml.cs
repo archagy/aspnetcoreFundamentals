@@ -14,7 +14,10 @@ namespace aspnetcoreFundamentals.Pages.Restaurants {
         private readonly IConfiguration config;
         private readonly IRestaurantData restaurantData;
 
-		public string Message { get; set; }
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
+
+        public string Message { get; set; }
         public IEnumerable<Restaurant> Restaurants { get; set; }
 
         public ListModel(IConfiguration config, IRestaurantData restaurantData) {
@@ -23,10 +26,9 @@ namespace aspnetcoreFundamentals.Pages.Restaurants {
         }
 
 
-		public void OnGet(string searchTerm) {
-            
+		public void OnGet() {
 			Message = "Hello World";
-            Restaurants = restaurantData.GetRestaurantsByName(searchTerm);
+            Restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
 
         }
     }
