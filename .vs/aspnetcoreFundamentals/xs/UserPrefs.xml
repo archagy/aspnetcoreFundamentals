@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{FA633A9A-E78B-47B6-B866-4713B0DF1E85}|Default">
+  <MonoDevelop.Ide.ItemProperties.aspnetcoreFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Restaurants/List.cshtml">
+    <Files>
+      <File FileName="Pages/Restaurants/List.cshtml.cs" Line="25" Column="1" />
+      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="20" Column="50" />
+      <File FileName="Pages/Restaurants/List.cshtml" Line="16" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aspnetcoreFundamentals" expanded="True">
+            <Node name="aspnetcoreFundamentals" expanded="True">
+              <Node name="OdeToFood.Core" expanded="True" />
+              <Node name="OdeToFood.Data" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Restaurants" expanded="True">
+                  <Node name="List.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="font-awesome" expanded="True">
+                    <Node name="webfonts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="OdeToFood.Core" expanded="True" />
+            <Node name="OdeToFood.Data" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
