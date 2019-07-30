@@ -1,34 +1,38 @@
 ﻿<Properties StartupConfiguration="{FA633A9A-E78B-47B6-B866-4713B0DF1E85}|Default">
   <MonoDevelop.Ide.ItemProperties.aspnetcoreFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Restaurants/NotFound.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood.Data/OdeToFoodDbContext.cs">
     <Files>
       <File FileName="Pages/Restaurants/Details.cshtml" Line="1" Column="11" />
-      <File FileName="Pages/Restaurants/Details.cshtml.cs" Line="26" Column="53" />
-      <File FileName="Pages/Restaurants/List.cshtml" Line="32" Column="35" />
-      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="7" Column="36" />
-      <File FileName="Pages/Restaurants/NotFound.cshtml" Line="3" Column="13" />
+      <File FileName="Pages/Restaurants/Details.cshtml.cs" />
+      <File FileName="Pages/Restaurants/List.cshtml" />
+      <File FileName="OdeToFood.Data/IRestaurantData.cs" />
+      <File FileName="Pages/Restaurants/NotFound.cshtml" />
+      <File FileName="Pages/Restaurants/Edit.cshtml.cs" Line="38" Column="37" />
+      <File FileName="Pages/Restaurants/Edit.cshtml" />
+      <File FileName="OdeToFood.Core/Restaurant.cs" />
+      <File FileName="OdeToFood.Data/OdeToFoodDbContext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="aspnetcoreFundamentals" expanded="True">
             <Node name="aspnetcoreFundamentals" expanded="True">
-              <Node name="OdeToFood.Data" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Pages" expanded="True">
-                <Node name="Restaurants" expanded="True">
-                  <Node name="NotFound.cshtml" selected="True" />
-                </Node>
+                <Node name="Restaurants" expanded="True" />
               </Node>
               <Node name="Properties" expanded="True" />
               <Node name="wwwroot" expanded="True" />
             </Node>
             <Node name="OdeToFood.Core" expanded="True" />
-            <Node name="OdeToFood.Data" expanded="True" />
+            <Node name="OdeToFood.Data" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="OdeToFoodDbContext.cs" selected="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

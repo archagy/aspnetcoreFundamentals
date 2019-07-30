@@ -5,6 +5,8 @@ namespace OdeToFood.Data {
     public interface IRestaurantData {
         IEnumerable<Restaurant> GetRestaurantsByName(string name);
         Restaurant GetByID(int id);
+        Restaurant Update(Restaurant updated);
+        int Commit();
     }
 
     public class InMemoryRestaurantData : IRestaurantData {
@@ -28,6 +30,20 @@ namespace OdeToFood.Data {
                    where string.IsNullOrEmpty(name) || r.Name.StartsWith(name)
                    orderby r.Name
                    select r;
+        }
+
+        public Restaurant Update(Restaurant updated) {
+            var restaurant = restaurants.SingleOrDefault(r => r.ID == updated.ID);
+
+            if(restaurant != null) {
+                restaurant = updated;
+            }
+
+            return restaurant;
+        }
+
+        public int Commit() {
+            return 0;
         }
     }
 }

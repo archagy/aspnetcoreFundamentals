@@ -1,0 +1,8 @@
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/bin/Debug/netcoreapp2.2/OdeToFood.Core.deps.json
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/bin/Debug/netcoreapp2.2/OdeToFood.Core.dll
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/bin/Debug/netcoreapp2.2/OdeToFood.Core.pdb
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.csproj.CoreCompileInputs.cache
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.AssemblyInfoInputs.cache
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.AssemblyInfo.cs
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.dll
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.pdb

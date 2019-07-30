@@ -29,9 +29,13 @@
         <td>@restaurant.Cuisine</td>
         <td>
             <a class="btn btn-lg"
-               asp-page="./Details" asp-route-id="@restaurant.ID"
-            >
+               asp-page="./Details" asp-route-id="@restaurant.ID">
                 <i class="fas fa-search-plus"></i>
+            </a>
+
+            <a class="btn btn-lg"
+               asp-page="./Edit" asp-route-id="@restaurant.ID">
+                <i class="fas fa-edit"></i>
             </a>
         </td>
 

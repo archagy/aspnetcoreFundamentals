@@ -1,0 +1,12 @@
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/bin/Debug/netcoreapp2.2/OdeToFood.Data.deps.json
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/bin/Debug/netcoreapp2.2/OdeToFood.Data.dll
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/bin/Debug/netcoreapp2.2/OdeToFood.Data.pdb
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/bin/Debug/netcoreapp2.2/OdeToFood.Core.dll
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/bin/Debug/netcoreapp2.2/OdeToFood.Core.pdb
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/obj/Debug/netcoreapp2.2/OdeToFood.Data.csprojAssemblyReference.cache
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/obj/Debug/netcoreapp2.2/OdeToFood.Data.csproj.CoreCompileInputs.cache
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/obj/Debug/netcoreapp2.2/OdeToFood.Data.AssemblyInfoInputs.cache
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/obj/Debug/netcoreapp2.2/OdeToFood.Data.AssemblyInfo.cs
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/obj/Debug/netcoreapp2.2/OdeToFood.Data.csproj.CopyComplete
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/obj/Debug/netcoreapp2.2/OdeToFood.Data.dll
+/Users/alexiseliudvillegasrodriguez/dev/c#/aspnetcoreFundamentals/OdeToFood.Data/obj/Debug/netcoreapp2.2/OdeToFood.Data.pdb

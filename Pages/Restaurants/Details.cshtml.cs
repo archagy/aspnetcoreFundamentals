@@ -9,8 +9,6 @@ using OdeToFood.Data;
 
 namespace aspnetcoreFundamentals.Pages.Restaurants {
 
-    
-
     public class DetailsModel : PageModel {
         public Restaurant Restaurant { get; set; }
 
